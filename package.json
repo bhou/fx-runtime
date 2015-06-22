@@ -1,0 +1,12 @@
+{
+  "name": "fx-runtime",
+  "version": "0.1.11",
+  "main": "./index.js",
+  "engines": {
+    "node": "0.12.*"
+  },
+  "dependencies": {
+    "architect": "0.1.*",
+    "minimist": "1.1.x"
+  }
+}
